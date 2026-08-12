@@ -1,1 +1,1 @@
-# gygmtl-privacy
+# gymtl-privacy
